@@ -9,7 +9,7 @@
 #### Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=claserre9&theme=graywhite)
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=claserre9&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claserre9&layout=compact)
 
 
 <!--
