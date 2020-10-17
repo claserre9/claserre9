@@ -1,5 +1,7 @@
 ## My name is Clifford Laserre :wave:
 [![GitHub followers](https://img.shields.io/github/followers/claserre9.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/claserre9?tab=followers)
+ 
+### [📫 Reach me here](https://claserre9.github.io/)
 
 #### Position
 - Full stack developper :star:
@@ -14,8 +16,6 @@
 
 #### Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=claserre9&theme=graywhite) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claserre9&layout=compact)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
