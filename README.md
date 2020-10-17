@@ -18,6 +18,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claserre9&layout=compact)
 
 <!--START_SECTION:waka-->
+```text
+HTML    3 hrs 22 mins   ███████████████████████░░   92.31 % 
+CSS     15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+XML     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+```
 <!--END_SECTION:waka-->
 
 <!--
