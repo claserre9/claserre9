@@ -18,11 +18,88 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claserre9&layout=compact)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 265 Contributions in the Year 2020
+ > 
+> 📦 321.7 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 13 Public Repositories
+ > 
+> 🔑 13 Private Repositories 
+
+**I'm an Early 🐤** 
+
 ```text
-HTML    3 hrs 22 mins   ███████████████████████░░   92.31 % 
-CSS     15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-XML     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+🌞 Morning    58 commits     ██████░░░░░░░░░░░░░░░░░░░   24.07% 
+🌆 Daytime    118 commits    ████████████░░░░░░░░░░░░░   48.96% 
+🌃 Evening    51 commits     █████░░░░░░░░░░░░░░░░░░░░   21.16% 
+🌙 Night      14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.81%
+
 ```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       50 commits     █████░░░░░░░░░░░░░░░░░░░░   20.75% 
+Tuesday      21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.71% 
+Wednesday    38 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.77% 
+Thursday     60 commits     ██████░░░░░░░░░░░░░░░░░░░   24.9% 
+Friday       50 commits     █████░░░░░░░░░░░░░░░░░░░░   20.75% 
+Saturday     13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.39% 
+Sunday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.73%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Toronto
+
+💬 Programming Languages: 
+HTML                     3 hrs 22 mins       ███████████████████████░░   92.31% 
+CSS                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.0% 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+
+🔥 Editors: 
+VS Code                  3 hrs 37 mins       ████████████████████████░   99.41% 
+PhpStorm                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58% 
+WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+
+🐱‍💻 Projects: 
+claserre9.github.io      3 hrs 37 mins       ████████████████████████░   99.41% 
+moncashapp               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58% 
+reactwithmosh            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+💻 Operating System: 
+Windows                  3 hrs 39 mins       █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in PHP** 
+
+```text
+PHP                      4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/claserre9/claserre9/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 <!--
