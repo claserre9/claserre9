@@ -20,18 +20,6 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 265 Contributions in the Year 2020
- > 
-> 📦 321.7 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 13 Public Repositories
- > 
-> 🔑 13 Private Repositories 
-
 **I'm an Early 🐤** 
 
 ```text
@@ -72,12 +60,6 @@ VS Code                  3 hrs 37 mins       ███████████�
 PhpStorm                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58% 
 WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
-🐱‍💻 Projects: 
-claserre9.github.io      3 hrs 37 mins       ████████████████████████░   99.41% 
-moncashapp               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58% 
-reactwithmosh            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
 💻 Operating System: 
 Windows                  3 hrs 39 mins       █████████████████████████   100.0%
 
@@ -94,10 +76,6 @@ C++                      1 repo              █░░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://github.com/claserre9/claserre9/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
