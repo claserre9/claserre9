@@ -1,5 +1,5 @@
 ## My name is Clifford Laserre :wave:
-![Profile views](https://gpvc.arturio.dev/claserre9) [![GitHub followers](https://img.shields.io/github/followers/claserre9.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/claserre9?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/claserre9.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/claserre9?tab=followers)
 
 #### Position
 - Full stack developper :star:
