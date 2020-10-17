@@ -17,7 +17,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claserre9&layout=compact)
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **claserre9/claserre9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
