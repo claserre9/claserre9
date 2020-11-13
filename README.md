@@ -16,7 +16,6 @@
 
 #### Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=claserre9&count_private=true)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=claserre9)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
