@@ -18,7 +18,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=claserre9&count_private=true)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **I'm an Early 🐤** 
 
