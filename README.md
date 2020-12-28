@@ -18,7 +18,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=claserre9&count_private=true)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
 
@@ -49,17 +49,13 @@ Sunday       16 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-PHP                      1 hr 37 mins        ███████████████░░░░░░░░░░   62.59% 
-Twig                     55 mins             ████████░░░░░░░░░░░░░░░░░   35.4% 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 2 hrs 35 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 35 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
