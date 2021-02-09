@@ -23,22 +23,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    69 commits     █████░░░░░░░░░░░░░░░░░░░░   22.04% 
-🌆 Daytime    165 commits    █████████████░░░░░░░░░░░░   52.72% 
-🌃 Evening    63 commits     █████░░░░░░░░░░░░░░░░░░░░   20.13% 
-🌙 Night      16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.11%
+🌞 Morning    69 commits     █████░░░░░░░░░░░░░░░░░░░░   21.97% 
+🌆 Daytime    166 commits    █████████████░░░░░░░░░░░░   52.87% 
+🌃 Evening    63 commits     █████░░░░░░░░░░░░░░░░░░░░   20.06% 
+🌙 Night      16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.1%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       72 commits     █████░░░░░░░░░░░░░░░░░░░░   23.0% 
-Tuesday      22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.03% 
-Wednesday    45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.38% 
-Thursday     70 commits     █████░░░░░░░░░░░░░░░░░░░░   22.36% 
-Friday       56 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.89% 
-Saturday     22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.03% 
-Sunday       26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.31%
+Monday       73 commits     █████░░░░░░░░░░░░░░░░░░░░   23.25% 
+Tuesday      22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.01% 
+Wednesday    45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.33% 
+Thursday     70 commits     █████░░░░░░░░░░░░░░░░░░░░   22.29% 
+Friday       56 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.83% 
+Saturday     22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.01% 
+Sunday       26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.28%
 
 ```
 
@@ -62,11 +62,11 @@ No Activity Tracked This Week
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      8 repos             ███████░░░░░░░░░░░░░░░░░░   29.63% 
-Python                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.52% 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.41%
+PHP                      8 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
+Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
 
 ```
 
