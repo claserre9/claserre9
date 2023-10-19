@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 [//]: # (wakatime-stats)
 
+[//]: # (wakatime-stats)
+### Wakatime Stats
+```
 +------------------+-------------------+
 | Operating System | Total Hour        |
 +------------------+-------------------+
@@ -46,6 +49,6 @@ Here are some ideas to get you started:
 | JavaScript | 128 hrs 20 mins |
 | SQL        | 108 hrs 11 mins |
 +------------+-----------------+
-
+```
 
 
