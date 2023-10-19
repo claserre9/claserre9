@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [//]: # (wakatime-stats)
+[//]: # (end-wakatime-stats)
