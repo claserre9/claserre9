@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Wakatime Stats
 ```
-+------- All Time Stats -------+
++- All Time Stats (Top Five) --+
 | Language   | Total Hour      |
 +------------+-----------------+
 | PHP        | 598 hrs 24 mins |
@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
