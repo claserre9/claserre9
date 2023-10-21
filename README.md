@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 [//]: # (wakatime-stats)
 
+
 ### Wakatime Stats
 ```
 +- All Time Stats (Top Five) --+
@@ -31,7 +32,10 @@ Here are some ideas to get you started:
 
 ```
 
+
 [//]: # (end-wakatime-stats)
+
+
 
 
 
