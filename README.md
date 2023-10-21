@@ -23,15 +23,17 @@ Here are some ideas to get you started:
 ┌─────────── All Time Stats (Top Five) ────────────┐
 │ Language        │ Total Hour                     │
 ├─────────────────┼────────────────────────────────┤
-│ PHP             │ 598 hrs 24 mins                │
-│ TypeScript      │ 306 hrs 1 min                  │
-│ Python          │ 136 hrs 23 mins                │
-│ JavaScript      │ 129 hrs 12 mins                │
-│ SQL             │ 108 hrs 14 mins                │
+│ PHP             │ 22 hrs 34 mins                 │
+│ TypeScript      │ 6 hrs 41 mins                  │
+│ JSON            │ 2 hrs 55 mins                  │
+│ JavaScript      │ 2 hrs 25 mins                  │
+│ Twig            │ 2 hrs 9 mins                   │
 └─────────────────┴────────────────────────────────┘
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
