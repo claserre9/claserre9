@@ -20,18 +20,20 @@ Here are some ideas to get you started:
 
 ### Wakatime Stats
 ```
-┌─────────── All Time Stats (Top Five) ────────────┐
+┌────────── Last 7 Days Stats (Top Five) ──────────┐
 │ Language        │ Total Hour                     │
 ├─────────────────┼────────────────────────────────┤
-│ PHP             │ 22 hrs 34 mins                 │
-│ TypeScript      │ 6 hrs 41 mins                  │
-│ JSON            │ 2 hrs 55 mins                  │
-│ JavaScript      │ 2 hrs 25 mins                  │
-│ Twig            │ 2 hrs 9 mins                   │
+│ PHP             │         22 hrs 34 mins         │
+│ TypeScript      │         6 hrs 41 mins          │
+│ JSON            │         2 hrs 55 mins          │
+│ JavaScript      │         2 hrs 25 mins          │
+│ Twig            │          2 hrs 9 mins          │
 └─────────────────┴────────────────────────────────┘
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
