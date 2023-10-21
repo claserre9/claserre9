@@ -19,27 +19,7 @@ Here are some ideas to get you started:
 
 ### Wakatime Stats
 ```
-+------------------+-------------------+
-| Operating System | Total Hour        |
-+------------------+-------------------+
-| Mac              | 1,173 hrs 59 mins |
-| Windows          | 405 hrs 8 mins    |
-| Linux            | 38 hrs 28 mins    |
-+------------------+-------------------+
-+----------------+-------------------+
-| Editor         | Total Hour        |
-+----------------+-------------------+
-| PhpStorm       | 1,133 hrs 49 mins |
-| PyCharm        | 185 hrs 51 mins   |
-| WebStorm       | 175 hrs 23 mins   |
-| DataGrip       | 84 hrs 35 mins    |
-| VS Code        | 29 hrs 10 mins    |
-| Visual Studio  | 8 hrs 12 mins     |
-| CLion          | 28 mins           |
-| IntelliJ       | 5 mins            |
-| Unknown Editor | 0 secs            |
-+----------------+-------------------+
-+------------+-----------------+
++------- All Time Stats -------+
 | Language   | Total Hour      |
 +------------+-----------------+
 | PHP        | 598 hrs 24 mins |
@@ -52,6 +32,8 @@ Here are some ideas to get you started:
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
