@@ -6,16 +6,6 @@ on:
     - cron: '*/5 * * * *'  # Run every 5 minutes
 
 jobs:
-#  print env secrets
-  print-env-secrets:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Print env secrets
-        run:
-          echo ${{ secrets.WAKATIME_USER_ID }}
-          echo ${{ secrets.WAKATIME_API_KEY }}
-          echo ${{ secrets.GH_TOKEN }}
-
   update-readme-with-wakatime-stats:
     name: Update this repo's README with stats
     runs-on: ubuntu-latest
