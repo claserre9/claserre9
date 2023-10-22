@@ -9,14 +9,18 @@ jobs:
   update-readme-with-wakatime-stats:
     name: Update this repo's README with stats
     runs-on: ubuntu-latest
-    env:
-      WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-      WAKATIME_USER_ID: ${{ secrets.WAKATIME_USER_ID }}
-      GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
     steps:
-    - uses: claserre9/wakatime-stats@master
-      with:
-        WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-        WAKATIME_USER_ID: ${{ secrets.WAKATIME_USER_ID }}
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Update README with Wakatime stats
+        uses: claserre9/wakatime-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_USER_ID: ${{ secrets.WAKATIME_USER_ID }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_USER_ID: ${{ secrets.WAKATIME_USER_ID }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
