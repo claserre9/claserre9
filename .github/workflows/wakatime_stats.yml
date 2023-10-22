@@ -1,19 +1,17 @@
 name: Wakatime Stats
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '*/5 * * * *'  # Run every 5 minutes
 
 jobs:
-  scheduled_job:
+  update-readme-with-wakatime-stats:
+    name: Update this repo's README with stats
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-
-      - name: Use the Wakatime Action
-        uses: claserre9/wakatime-stats@master
+      - uses: claserre9/wakatime-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           WAKATIME_USER_ID: ${{ secrets.WAKATIME_USER_ID }}
