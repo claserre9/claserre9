@@ -1,0 +1,22 @@
+name: Wakatime Stats
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'  # Run every 5 minutes
+
+jobs:
+  scheduled_job:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Use the Wakatime Action
+        uses: claserre9/wakatime-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_USER_ID: ${{ secrets.WAKATIME_USER_ID }}
+          WAKATIME_STAT_RANGE: ${{ secrets.WAKATIME_STAT_RANGE }}
+          WAKATIME_ADD_INSIGHT: ${{ secrets.WAKATIME_ADD_INSIGHT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
