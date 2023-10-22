@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### Wakatime Stats
 ```
 ┌────────── Last 7 Days Stats (Top Five) ──────────┐
-│ Language        │ Total Hour                     │
+│ Languages       │ Total Hours                    │
 ├─────────────────┼────────────────────────────────┤
 │ PHP             │         22 hrs 34 mins         │
 │ TypeScript      │         6 hrs 41 mins          │
@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
