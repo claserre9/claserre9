@@ -15,7 +15,7 @@ jobs:
           WAKATIME_USER_ID: ${{ secrets.WAKATIME_USER_ID }}
           WAKATIME_STAT_RANGE: ${{ secrets.WAKATIME_STAT_RANGE }}
           WAKATIME_ADD_INSIGHT: ${{ secrets.WAKATIME_ADD_INSIGHT }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TOKEN_GITHUB: ${{ secrets.TOKEN_GITHUB }}
         run: echo "Environment variables are set."
 
       - name: Checkout code
