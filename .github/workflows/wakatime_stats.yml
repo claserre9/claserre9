@@ -19,5 +19,5 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           WAKATIME_USER_ID: ${{ secrets.WAKATIME_USER_ID }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          TABLE_STYLE: 'box'
+          TABLE_STYLE: 'compact'
           MAX_LANGUAGES: '7'
