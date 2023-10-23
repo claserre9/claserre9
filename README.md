@@ -42,7 +42,6 @@ Here are some ideas to get you started:
 | Visual Studio        |         8 hrs 12 mins          |
 | CLion                |            28 mins             |
 | IntelliJ             |             5 mins             |
-| Unknown Editor       |             0 secs             |
 +----------------------+--------------------------------+
 
 
@@ -56,6 +55,8 @@ Here are some ideas to get you started:
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
