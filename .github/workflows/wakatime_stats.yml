@@ -6,16 +6,15 @@ on:
     - cron: '*/5 * * * *'  # Run every 5 minutes
 
 jobs:
-  run-php-workflow:
+  update-readme-with-wakatime-stats:
+    name: Update README with Wakatime stats
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Run PHP Workflow in Reusable Repository
-        uses: claserre9/wakatime-stats/.github/workflows/wakatime_stats.yml
+      - uses: claserre9/wakatime-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           WAKATIME_USER_ID: ${{ secrets.WAKATIME_USER_ID }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
