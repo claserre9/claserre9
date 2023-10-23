@@ -20,3 +20,4 @@ jobs:
           WAKATIME_USER_ID: ${{ secrets.WAKATIME_USER_ID }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           TABLE_STYLE: 'box'
+          MAX_LANGUAGES: '7'
