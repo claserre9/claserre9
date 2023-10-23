@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 │ Python                    │        136 hrs 23 mins         │
 │ JavaScript                │        129 hrs 12 mins         │
 │ SQL                       │        108 hrs 14 mins         │
+│ Twig                      │        100 hrs 45 mins         │
+│ JSON                      │         66 hrs 22 mins         │
 └───────────────────────────┴────────────────────────────────┘
 
 
@@ -55,6 +57,8 @@ Here are some ideas to get you started:
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
