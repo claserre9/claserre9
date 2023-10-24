@@ -21,5 +21,5 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           TABLE_STYLE: 'box-double'
           MAX_LANGUAGES: '7'
-          WAKATIME_TIME_RANGE: 'last_7_days'
+          WAKATIME_TIME_RANGE: 'last_30_days'
           
