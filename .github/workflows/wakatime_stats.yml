@@ -14,10 +14,12 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - uses: claserre9/wakatime-stats@v1
+      - uses: claserre9/wakatime-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           WAKATIME_USER_ID: ${{ secrets.WAKATIME_USER_ID }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           TABLE_STYLE: 'box-double'
           MAX_LANGUAGES: '7'
+          WAKATIME_TIME_RANGE: 'last_7_days'
+          
