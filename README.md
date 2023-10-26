@@ -17,41 +17,40 @@ Here are some ideas to get you started:
 
 [//]: # (wakatime-stats)
 
-
 ### Wakatime Stats
 ```
-╔═══════ Last 30 Days Stats for Programming Languages ═══════╗
-║ Programming Languages     │ Total Hours                    ║
-╠═══════════════════════════╪════════════════════════════════╣
-║ PHP                       │         92 hrs 22 mins         ║
-║ TypeScript                │         31 hrs 41 mins         ║
-║ Twig                      │         13 hrs 45 mins         ║
-║ JSON                      │         9 hrs 58 mins          ║
-║ JavaScript                │         6 hrs 28 mins          ║
-║ YAML                      │         5 hrs 22 mins          ║
-║ SQL                       │         4 hrs 15 mins          ║
-╚═══════════════════════════╧════════════════════════════════╝
++------- Last 7 Days Stats for Programming Languages --------+
+| Programming Languages     | Total Hours                    |
++---------------------------+--------------------------------+
+| PHP                       |         20 hrs 15 mins         |
+| Twig                      |          6 hrs 1 min           |
+| JavaScript                |         4 hrs 42 mins          |
+| YAML                      |          4 hrs 6 mins          |
+| Docker                    |          1 hr 58 mins          |
++---------------------------+--------------------------------+
 
 
-╔══════════════ Last 30 Days Stats for Editors ══════════════╗
-║ Editors                   │ Total Hours                    ║
-╠═══════════════════════════╪════════════════════════════════╣
-║ PhpStorm                  │        158 hrs 53 mins         ║
-║ WebStorm                  │         14 hrs 5 mins          ║
-║ VS Code                   │         8 hrs 23 mins          ║
-║ DataGrip                  │         2 hrs 36 mins          ║
-╚═══════════════════════════╧════════════════════════════════╝
++-------------- Last 7 Days Stats for Editors ---------------+
+| Editors                   | Total Hours                    |
++---------------------------+--------------------------------+
+| PhpStorm                  |         42 hrs 44 mins         |
+| WebStorm                  |            57 mins             |
+| VS Code                   |            57 mins             |
+| DataGrip                  |            10 mins             |
++---------------------------+--------------------------------+
 
 
-╔═════════ Last 30 Days Stats for Operating Systems ═════════╗
-║ Operating Systems         │ Total Hours                    ║
-╠═══════════════════════════╪════════════════════════════════╣
-║ Mac                       │        131 hrs 10 mins         ║
-║ Windows                   │         52 hrs 48 mins         ║
-╚═══════════════════════════╧════════════════════════════════╝
++--------- Last 7 Days Stats for Operating Systems ----------+
+| Operating Systems         | Total Hours                    |
++---------------------------+--------------------------------+
+| Mac                       |         33 hrs 12 mins         |
+| Windows                   |         11 hrs 37 mins         |
++---------------------------+--------------------------------+
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
