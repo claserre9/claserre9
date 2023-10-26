@@ -19,36 +19,38 @@ Here are some ideas to get you started:
 
 ### Wakatime Stats
 ```
-+------- Last 7 Days Stats for Programming Languages --------+
++------- Last 30 Days Stats for Programming Languages -------+
 | Programming Languages     | Total Hours                    |
 +---------------------------+--------------------------------+
-| PHP                       |         20 hrs 15 mins         |
-| Twig                      |          6 hrs 1 min           |
-| JavaScript                |         4 hrs 42 mins          |
-| YAML                      |          4 hrs 6 mins          |
-| Docker                    |          1 hr 58 mins          |
+| PHP                       |         90 hrs 31 mins         |
+| TypeScript                |         29 hrs 18 mins         |
+| Twig                      |         14 hrs 29 mins         |
+| JSON                      |             10 hrs             |
+| JavaScript                |          7 hrs 2 mins          |
 +---------------------------+--------------------------------+
 
 
-+-------------- Last 7 Days Stats for Editors ---------------+
++-------------- Last 30 Days Stats for Editors --------------+
 | Editors                   | Total Hours                    |
 +---------------------------+--------------------------------+
-| PhpStorm                  |         42 hrs 44 mins         |
-| WebStorm                  |            57 mins             |
-| VS Code                   |            57 mins             |
-| DataGrip                  |            10 mins             |
+| PhpStorm                  |        157 hrs 51 mins         |
+| WebStorm                  |             15 hrs             |
+| VS Code                   |         5 hrs 42 mins          |
+| DataGrip                  |         2 hrs 39 mins          |
 +---------------------------+--------------------------------+
 
 
-+--------- Last 7 Days Stats for Operating Systems ----------+
++--------- Last 30 Days Stats for Operating Systems ---------+
 | Operating Systems         | Total Hours                    |
 +---------------------------+--------------------------------+
-| Mac                       |         33 hrs 12 mins         |
-| Windows                   |         11 hrs 37 mins         |
+| Mac                       |        129 hrs 39 mins         |
+| Windows                   |         51 hrs 34 mins         |
 +---------------------------+--------------------------------+
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
