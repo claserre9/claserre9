@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 ║ Twig                      │         14 hrs 29 mins         ║
 ║ JSON                      │             10 hrs             ║
 ║ JavaScript                │          7 hrs 2 mins          ║
+║ YAML                      │         5 hrs 22 mins          ║
+║ SQL                       │         4 hrs 19 mins          ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
@@ -49,6 +51,8 @@ Here are some ideas to get you started:
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
