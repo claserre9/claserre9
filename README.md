@@ -10,7 +10,16 @@
 
 ###
 
-<p align="left">Complex problem-solver with analytical and driven mindset. Dedicated to achieving demanding development objectives according to tight schedules while producing impeccable code.</p>
+<p align="left">
+I'm a passionate and dedicated developer with a strong background in web development. I love turning complex problems into elegant solutions through code.
+I'm always eager to stay up-to-date with the latest trends and technologies in these areas. I believe in the power of clean code, strong documentation, and collaboration. 
+I'm a firm advocate for open-source software and enjoy giving back to the developer community. When I'm not coding, you can often find me playing the chess.
+
+Feel free to get in touch with me if you'd like to collaborate on a project or simply discuss technology. I'm always open to new opportunities and connections.
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/cliffordlaserre) and [Twitter](https://twitter.com/claserre9) to stay updated on my latest projects and contributions.
+
+</p>
 
 ###
 
