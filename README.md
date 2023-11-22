@@ -96,6 +96,8 @@ Here are some ideas to get you started:
 ║ SQL                       │          1 hr 48 mins          ║
 ║ TypeScript                │          1 hr 3 mins           ║
 ║ Other                     │            57 mins             ║
+║ JavaScript                │            45 mins             ║
+║ JSON                      │            40 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
@@ -118,6 +120,8 @@ Here are some ideas to get you started:
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
