@@ -104,7 +104,7 @@ Here are some ideas to get you started:
 ╔══════════════ Last 7 Days Stats for Editors ═══════════════╗
 ║ Editors                   │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ PhpStorm                  │             20 hrs             ║
+║ PhpStorm                  │          20 hrs 1 min          ║
 ║ DataGrip                  │          2 hrs 3 mins          ║
 ║ WebStorm                  │          1 hr 49 mins          ║
 ║ VS Code                   │             9 mins             ║
@@ -115,12 +115,14 @@ Here are some ideas to get you started:
 ╔═════════ Last 7 Days Stats for Operating Systems ══════════╗
 ║ Operating Systems         │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Mac                       │         22 hrs 7 mins          ║
-║ Windows                   │             2 hrs              ║
+║ Mac                       │         22 hrs 4 mins          ║
+║ Windows                   │          2 hrs 4 mins          ║
 ╚═══════════════════════════╧════════════════════════════════╝
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
