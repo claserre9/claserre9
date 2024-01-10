@@ -93,11 +93,11 @@ Here are some ideas to get you started:
 ╠═══════════════════════════╪════════════════════════════════╣
 ║ PHP                       │         14 hrs 43 mins         ║
 ║ Twig                      │         2 hrs 26 mins          ║
-║ TypeScript                │          1 hr 21 mins          ║
-║ JSON                      │            50 mins             ║
 ║ SQL                       │            44 mins             ║
-║ JavaScript                │            26 mins             ║
+║ JSON                      │            41 mins             ║
 ║ Markdown                  │            19 mins             ║
+║ textmate                  │            15 mins             ║
+║ GitIgnore file            │            14 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
@@ -105,10 +105,8 @@ Here are some ideas to get you started:
 ║ Editors                   │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
 ║ PhpStorm                  │         19 hrs 15 mins         ║
-║ WebStorm                  │          1 hr 49 mins          ║
 ║ DataGrip                  │            49 mins             ║
 ║ VS Code                   │            15 mins             ║
-║ Intellijidea              │             4 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
@@ -116,11 +114,13 @@ Here are some ideas to get you started:
 ║ Operating Systems         │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
 ║ Mac                       │         16 hrs 59 mins         ║
-║ Windows                   │         5 hrs 14 mins          ║
+║ Windows                   │         3 hrs 19 mins          ║
 ╚═══════════════════════════╧════════════════════════════════╝
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
