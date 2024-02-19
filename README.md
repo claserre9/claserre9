@@ -93,19 +93,19 @@ Here are some ideas to get you started:
 ╠═══════════════════════════╪════════════════════════════════╣
 ║ Twig                      │         13 hrs 28 mins         ║
 ║ TypeScript                │         8 hrs 58 mins          ║
-║ PHP                       │         5 hrs 41 mins          ║
+║ PHP                       │          5 hrs 9 mins          ║
 ║ JSON                      │         3 hrs 32 mins          ║
-║ JavaScript                │          1 hr 34 mins          ║
 ║ YAML                      │            38 mins             ║
-║ .env file                 │            20 mins             ║
+║ JavaScript                │            33 mins             ║
+║ HTML                      │            16 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
 ╔══════════════ Last 7 Days Stats for Editors ═══════════════╗
 ║ Editors                   │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ PhpStorm                  │         33 hrs 24 mins         ║
-║ WebStorm                  │          1 hr 25 mins          ║
+║ PhpStorm                  │         32 hrs 42 mins         ║
+║ WebStorm                  │            23 mins             ║
 ║ DataGrip                  │             8 mins             ║
 ║ VS Code                   │             6 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
@@ -115,11 +115,13 @@ Here are some ideas to get you started:
 ║ Operating Systems         │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
 ║ Mac                       │         32 hrs 55 mins         ║
-║ Windows                   │          2 hrs 8 mins          ║
+║ Windows                   │            25 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
