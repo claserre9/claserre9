@@ -20,7 +20,7 @@ Feel free to get in touch with me if you'd like to collaborate on a project or s
 Connect with me on [LinkedIn](https://www.linkedin.com/in/cliffordlaserre) and [Twitter](https://twitter.com/claserre9) to stay updated on my latest projects and contributions.
 
 </p>
-
+<!--
 ###
 
 <h2 align="left">I work with</h2>
@@ -68,6 +68,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/cliffordlaserre) and [
 </div>
 
 ###
+-->
 
 <!--
 **claserre9/claserre9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
