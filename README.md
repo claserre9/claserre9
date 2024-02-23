@@ -92,12 +92,12 @@ Here are some ideas to get you started:
 ╔═══════ Last 7 Days Stats for Programming Languages ════════╗
 ║ Programming Languages     │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ PHP                       │         9 hrs 15 mins          ║
+║ PHP                       │         13 hrs 28 mins         ║
 ║ TypeScript                │         8 hrs 58 mins          ║
-║ Twig                      │         6 hrs 13 mins          ║
-║ JSON                      │         3 hrs 20 mins          ║
-║ YAML                      │            56 mins             ║
-║ SQL                       │            51 mins             ║
+║ JSON                      │         2 hrs 58 mins          ║
+║ Twig                      │         2 hrs 15 mins          ║
+║ SQL                       │          1 hr 21 mins          ║
+║ YAML                      │            58 mins             ║
 ║ .env file                 │            18 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
@@ -105,22 +105,24 @@ Here are some ideas to get you started:
 ╔══════════════ Last 7 Days Stats for Editors ═══════════════╗
 ║ Editors                   │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ PhpStorm                  │         29 hrs 42 mins         ║
-║ DataGrip                  │            51 mins             ║
+║ PhpStorm                  │         29 hrs 37 mins         ║
+║ DataGrip                  │          1 hr 21 mins          ║
 ║ WebStorm                  │            23 mins             ║
-║ VS Code                   │            12 mins             ║
+║ VS Code                   │            13 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
 ╔═════════ Last 7 Days Stats for Operating Systems ══════════╗
 ║ Operating Systems         │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Mac                       │         30 hrs 43 mins         ║
+║ Mac                       │         31 hrs 11 mins         ║
 ║ Windows                   │            25 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
