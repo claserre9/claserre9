@@ -92,33 +92,35 @@ Here are some ideas to get you started:
 ╔═══════ Last 7 Days Stats for Programming Languages ════════╗
 ║ Programming Languages     │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ PHP                       │         13 hrs 12 mins         ║
-║ Twig                      │         2 hrs 40 mins          ║
-║ JSON                      │          2 hrs 6 mins          ║
+║ PHP                       │         9 hrs 59 mins          ║
+║ Twig                      │             7 hrs              ║
+║ JSON                      │         2 hrs 25 mins          ║
 ║ SQL                       │          1 hr 35 mins          ║
 ║ TypeScript                │          1 hr 25 mins          ║
 ║ YAML                      │            56 mins             ║
-║ Other                     │            14 mins             ║
+║ .env file                 │            12 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
 ╔══════════════ Last 7 Days Stats for Editors ═══════════════╗
 ║ Editors                   │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ PhpStorm                  │         20 hrs 57 mins         ║
+║ PhpStorm                  │         22 hrs 20 mins         ║
 ║ DataGrip                  │          1 hr 35 mins          ║
-║ VS Code                   │            14 mins             ║
+║ VS Code                   │             6 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
 ╔═════════ Last 7 Days Stats for Operating Systems ══════════╗
 ║ Operating Systems         │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Mac                       │         22 hrs 46 mins         ║
+║ Mac                       │         24 hrs 2 mins          ║
 ╚═══════════════════════════╧════════════════════════════════╝
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
