@@ -93,9 +93,9 @@ Here are some ideas to get you started:
 ║ Programming Languages     │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
 ║ Twig                      │         7 hrs 42 mins          ║
-║ TypeScript                │         3 hrs 33 mins          ║
-║ PHP                       │         2 hrs 52 mins          ║
-║ JSON                      │         2 hrs 39 mins          ║
+║ TypeScript                │         4 hrs 22 mins          ║
+║ PHP                       │         2 hrs 58 mins          ║
+║ JSON                      │         2 hrs 44 mins          ║
 ║ JavaScript                │          1 hr 53 mins          ║
 ║ Other                     │            27 mins             ║
 ║ CSS                       │             3 mins             ║
@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 ╔══════════════ Last 7 Days Stats for Editors ═══════════════╗
 ║ Editors                   │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ PhpStorm                  │         18 hrs 47 mins         ║
+║ PhpStorm                  │         19 hrs 47 mins         ║
 ║ VS Code                   │            27 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
@@ -113,11 +113,13 @@ Here are some ideas to get you started:
 ╔═════════ Last 7 Days Stats for Operating Systems ══════════╗
 ║ Operating Systems         │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Mac                       │         19 hrs 14 mins         ║
+║ Mac                       │         20 hrs 14 mins         ║
 ╚═══════════════════════════╧════════════════════════════════╝
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
