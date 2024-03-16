@@ -93,20 +93,20 @@ Here are some ideas to get you started:
 ║ Programming Languages     │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
 ║ TypeScript                │         10 hrs 10 mins         ║
-║ Twig                      │         7 hrs 21 mins          ║
-║ JSON                      │         5 hrs 38 mins          ║
-║ PHP                       │         4 hrs 12 mins          ║
-║ JavaScript                │          1 hr 53 mins          ║
+║ JavaScript                │         5 hrs 45 mins          ║
+║ JSON                      │         4 hrs 53 mins          ║
+║ PHP                       │         4 hrs 11 mins          ║
+║ Twig                      │         3 hrs 25 mins          ║
+║ YAML                      │            40 mins             ║
 ║ SQL                       │            36 mins             ║
-║ YAML                      │            35 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
 ╔══════════════ Last 7 Days Stats for Editors ═══════════════╗
 ║ Editors                   │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ PhpStorm                  │         31 hrs 19 mins         ║
-║ VS Code                   │            42 mins             ║
+║ PhpStorm                  │         30 hrs 32 mins         ║
+║ VS Code                   │            38 mins             ║
 ║ DataGrip                  │            36 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
@@ -114,12 +114,14 @@ Here are some ideas to get you started:
 ╔═════════ Last 7 Days Stats for Operating Systems ══════════╗
 ║ Operating Systems         │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Mac                       │          32 hrs 1 min          ║
+║ Mac                       │         31 hrs 9 mins          ║
 ║ Windows                   │            37 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
