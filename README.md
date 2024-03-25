@@ -108,6 +108,7 @@ Here are some ideas to get you started:
 ║ PhpStorm                  │         28 hrs 51 mins         ║
 ║ DataGrip                  │         3 hrs 45 mins          ║
 ║ VS Code                   │          1 hr 38 mins          ║
+║ Intellijidea              │             6 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
@@ -115,11 +116,13 @@ Here are some ideas to get you started:
 ║ Operating Systems         │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
 ║ Mac                       │         29 hrs 55 mins         ║
-║ Windows                   │         4 hrs 20 mins          ║
+║ Windows                   │         4 hrs 26 mins          ║
 ╚═══════════════════════════╧════════════════════════════════╝
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
