@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Clifford Laserre and I'm a Full Stack Developer from Canada</p>
+<p align="left">My name is Clifford Laserre and I'm a Full Stack Developer</p>
 
 ###
 
