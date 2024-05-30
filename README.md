@@ -92,12 +92,12 @@ Here are some ideas to get you started:
 ╔═══════ Last 7 Days Stats for Programming Languages ════════╗
 ║ Programming Languages     │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ PHP                       │         11 hrs 7 mins          ║
-║ TypeScript                │             5 hrs              ║
-║ JSON                      │         2 hrs 58 mins          ║
-║ Twig                      │             2 hrs              ║
-║ SQL                       │          1 hr 17 mins          ║
-║ JavaScript                │            25 mins             ║
+║ PHP                       │         13 hrs 48 mins         ║
+║ TypeScript                │         9 hrs 31 mins          ║
+║ JSON                      │         2 hrs 59 mins          ║
+║ Twig                      │         2 hrs 22 mins          ║
+║ SQL                       │          1 hr 34 mins          ║
+║ JavaScript                │            26 mins             ║
 ║ Python                    │             4 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
@@ -105,9 +105,9 @@ Here are some ideas to get you started:
 ╔══════════════ Last 7 Days Stats for Editors ═══════════════╗
 ║ Editors                   │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ PhpStorm                  │         20 hrs 58 mins         ║
-║ DataGrip                  │          1 hr 17 mins          ║
-║ VS Code                   │            39 mins             ║
+║ PhpStorm                  │         28 hrs 33 mins         ║
+║ DataGrip                  │          1 hr 34 mins          ║
+║ VS Code                   │            43 mins             ║
 ║ Intellijidea              │             2 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
@@ -115,12 +115,14 @@ Here are some ideas to get you started:
 ╔═════════ Last 7 Days Stats for Operating Systems ══════════╗
 ║ Operating Systems         │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Mac                       │         22 hrs 55 mins         ║
-║ Windows                   │             2 mins             ║
+║ Mac                       │         30 hrs 46 mins         ║
+║ Windows                   │             8 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
