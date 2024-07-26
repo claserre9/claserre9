@@ -96,7 +96,6 @@ Here are some ideas to get you started:
 ║ TypeScript                │          1 hr 6 mins           ║
 ║ JSON                      │              1 hr              ║
 ║ HTML                      │            42 mins             ║
-║ SQL                       │             9 mins             ║
 ║ Git                       │             7 mins             ║
 ║ TSConfig                  │             6 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
@@ -107,18 +106,20 @@ Here are some ideas to get you started:
 ╠═══════════════════════════╪════════════════════════════════╣
 ║ WebStorm                  │         5 hrs 48 mins          ║
 ║ VS Code                   │            13 mins             ║
-║ DataGrip                  │             9 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
 ╔═════════ Last 7 Days Stats for Operating Systems ══════════╗
 ║ Operating Systems         │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Mac                       │         6 hrs 11 mins          ║
+║ Mac                       │          6 hrs 1 min           ║
+║ Windows                   │             0 secs             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
