@@ -92,29 +92,33 @@ Here are some ideas to get you started:
 ╔═══════ Last 7 Days Stats for Programming Languages ════════╗
 ║ Programming Languages     │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ JSON                      │             8 mins             ║
-║ JavaScript                │             5 mins             ║
-║ TypeScript                │             2 mins             ║
-║ HTML                      │             2 mins             ║
-║ TSConfig                  │             0 secs             ║
+║ TypeScript                │            56 mins             ║
+║ JavaScript                │            33 mins             ║
+║ JSON                      │            15 mins             ║
+║ HTML                      │            10 mins             ║
+║ TSConfig                  │             8 mins             ║
+║ Python                    │             6 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
 ╔══════════════ Last 7 Days Stats for Editors ═══════════════╗
 ║ Editors                   │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ WebStorm                  │            19 mins             ║
+║ WebStorm                  │          2 hrs 7 mins          ║
+║ VS Code                   │             2 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
 ╔═════════ Last 7 Days Stats for Operating Systems ══════════╗
 ║ Operating Systems         │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Mac                       │            19 mins             ║
+║ Mac                       │         2 hrs 10 mins          ║
 ╚═══════════════════════════╧════════════════════════════════╝
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
