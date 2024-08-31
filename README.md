@@ -92,19 +92,20 @@ Here are some ideas to get you started:
 ╔═══════ Last 7 Days Stats for Programming Languages ════════╗
 ║ Programming Languages     │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ TypeScript                │            56 mins             ║
-║ JavaScript                │            33 mins             ║
-║ JSON                      │            15 mins             ║
+║ TypeScript                │          1 hr 2 mins           ║
+║ JavaScript                │            37 mins             ║
+║ JSON                      │            18 mins             ║
 ║ HTML                      │            10 mins             ║
 ║ TSConfig                  │             8 mins             ║
-║ Python                    │             6 mins             ║
+║ Python                    │             7 mins             ║
+║ Git                       │             4 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
 ╔══════════════ Last 7 Days Stats for Editors ═══════════════╗
 ║ Editors                   │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ WebStorm                  │          2 hrs 7 mins          ║
+║ WebStorm                  │         2 hrs 26 mins          ║
 ║ VS Code                   │             2 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
@@ -112,11 +113,13 @@ Here are some ideas to get you started:
 ╔═════════ Last 7 Days Stats for Operating Systems ══════════╗
 ║ Operating Systems         │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Mac                       │         2 hrs 10 mins          ║
+║ Mac                       │         2 hrs 29 mins          ║
 ╚═══════════════════════════╧════════════════════════════════╝
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
