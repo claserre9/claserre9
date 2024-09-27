@@ -13,7 +13,7 @@
 <p align="left">
 I'm a passionate and dedicated developer with a strong background in web development. I love turning complex problems into elegant solutions through code.
 I'm always eager to stay up-to-date with the latest trends and technologies in these areas. I believe in the power of clean code, strong documentation, and collaboration. 
-I'm a firm advocate for open-source software and enjoy giving back to the developer community. When I'm not coding, you can often find me playing the chess.
+I'm a firm advocate for open-source software and enjoy giving back to the developer community. When I'm not coding, you can often find me playing chess.
 
 Feel free to get in touch with me if you'd like to collaborate on a project or simply discuss technology. I'm always open to new opportunities and connections.
 
