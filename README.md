@@ -93,11 +93,11 @@ Here are some ideas to get you started:
 ║ Programming Languages     │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
 ║ PHP                       │         17 hrs 8 mins          ║
-║ JavaScript                │         2 hrs 56 mins          ║
+║ JavaScript                │         2 hrs 53 mins          ║
 ║ Twig                      │         2 hrs 47 mins          ║
 ║ JSON                      │         2 hrs 20 mins          ║
 ║ Makefile                  │            45 mins             ║
-║ HTML                      │            36 mins             ║
+║ HTML                      │            37 mins             ║
 ║ YAML                      │            15 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
@@ -107,9 +107,8 @@ Here are some ideas to get you started:
 ╠═══════════════════════════╪════════════════════════════════╣
 ║ PhpStorm                  │         26 hrs 31 mins         ║
 ║ VS Code                   │            42 mins             ║
+║ WebStorm                  │            20 mins             ║
 ║ CLion                     │            11 mins             ║
-║ WebStorm                  │            10 mins             ║
-║ DataGrip                  │             4 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
@@ -117,11 +116,13 @@ Here are some ideas to get you started:
 ║ Operating Systems         │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
 ║ Mac                       │         27 hrs 9 mins          ║
-║ Windows                   │            30 mins             ║
+║ Windows                   │            36 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
