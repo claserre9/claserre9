@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 ║ Twig                      │         4 hrs 58 mins          ║
 ║ JavaScript                │         3 hrs 49 mins          ║
 ║ JSON                      │         3 hrs 39 mins          ║
-║ TypeScript                │         2 hrs 10 mins          ║
+║ TypeScript                │          2 hrs 4 mins          ║
 ║ Other                     │          1 hr 53 mins          ║
 ║ Makefile                  │          1 hr 28 mins          ║
 ╚═══════════════════════════╧════════════════════════════════╝
@@ -109,7 +109,6 @@ Here are some ideas to get you started:
 ║ VS Code                   │          1 hr 34 mins          ║
 ║ iTerm2                    │          1 hr 7 mins           ║
 ║ GitHubDesktop             │            41 mins             ║
-║ WebStorm                  │            11 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
@@ -117,11 +116,12 @@ Here are some ideas to get you started:
 ║ Operating Systems         │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
 ║ Mac                       │         26 hrs 44 mins         ║
-║ Windows                   │            11 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
