@@ -92,12 +92,12 @@ Here are some ideas to get you started:
 ╔═══════ Last 7 Days Stats for Programming Languages ════════╗
 ║ Programming Languages     │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ PHP                       │         7 hrs 59 mins          ║
-║ Twig                      │         4 hrs 25 mins          ║
-║ JSON                      │         2 hrs 10 mins          ║
-║ C                         │          1 hr 41 mins          ║
-║ Other                     │          1 hr 25 mins          ║
-║ TypeScript                │          1 hr 3 mins           ║
+║ PHP                       │         8 hrs 17 mins          ║
+║ JSON                      │         2 hrs 11 mins          ║
+║ Twig                      │         2 hrs 11 mins          ║
+║ TypeScript                │          2 hrs 6 mins          ║
+║ C                         │          1 hr 50 mins          ║
+║ Other                     │          1 hr 21 mins          ║
 ║ Rust                      │            49 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
@@ -105,25 +105,27 @@ Here are some ideas to get you started:
 ╔══════════════ Last 7 Days Stats for Editors ═══════════════╗
 ║ Editors                   │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ PhpStorm                  │         15 hrs 10 mins         ║
-║ CLion                     │          2 hrs 8 mins          ║
-║ WebStorm                  │          1 hr 23 mins          ║
+║ PhpStorm                  │         14 hrs 17 mins         ║
+║ CLion                     │         2 hrs 35 mins          ║
+║ WebStorm                  │          1 hr 24 mins          ║
 ║ RustRover                 │            59 mins             ║
-║ GitHubDesktop             │            58 mins             ║
+║ GitHubDesktop             │            47 mins             ║
+║ iTerm2                    │            23 mins             ║
 ║ VS Code                   │            19 mins             ║
-║ iTerm2                    │            14 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
 ╔═════════ Last 7 Days Stats for Operating Systems ══════════╗
 ║ Operating Systems         │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Mac                       │         20 hrs 38 mins         ║
-║ Windows                   │            37 mins             ║
+║ Mac                       │         20 hrs 10 mins         ║
+║ Windows                   │            38 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
