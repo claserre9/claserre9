@@ -93,10 +93,10 @@ Here are some ideas to get you started:
 ║ Programming Languages     │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
 ║ PHP                       │         8 hrs 17 mins          ║
+║ C                         │         2 hrs 48 mins          ║
 ║ JSON                      │         2 hrs 11 mins          ║
 ║ Twig                      │         2 hrs 11 mins          ║
 ║ TypeScript                │          2 hrs 6 mins          ║
-║ C                         │          1 hr 50 mins          ║
 ║ Other                     │          1 hr 21 mins          ║
 ║ Rust                      │            49 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 ║ Editors                   │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
 ║ PhpStorm                  │         14 hrs 17 mins         ║
-║ CLion                     │         2 hrs 35 mins          ║
+║ CLion                     │         3 hrs 49 mins          ║
 ║ WebStorm                  │          1 hr 24 mins          ║
 ║ RustRover                 │            59 mins             ║
 ║ GitHubDesktop             │            47 mins             ║
@@ -119,11 +119,13 @@ Here are some ideas to get you started:
 ║ Operating Systems         │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
 ║ Mac                       │         20 hrs 10 mins         ║
-║ Windows                   │            38 mins             ║
+║ Windows                   │          1 hr 51 mins          ║
 ╚═══════════════════════════╧════════════════════════════════╝
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
