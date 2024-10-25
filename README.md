@@ -92,12 +92,12 @@ Here are some ideas to get you started:
 ╔═══════ Last 7 Days Stats for Programming Languages ════════╗
 ║ Programming Languages     │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ PHP                       │         10 hrs 30 mins         ║
-║ TypeScript                │         4 hrs 21 mins          ║
+║ PHP                       │         11 hrs 54 mins         ║
+║ TypeScript                │         3 hrs 36 mins          ║
 ║ C                         │         2 hrs 59 mins          ║
-║ JSON                      │             2 hrs              ║
-║ Other                     │          1 hr 27 mins          ║
-║ Twig                      │            59 mins             ║
+║ JSON                      │          1 hr 57 mins          ║
+║ Other                     │          1 hr 44 mins          ║
+║ Twig                      │            33 mins             ║
 ║ ObjectiveC                │            27 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
@@ -105,13 +105,12 @@ Here are some ideas to get you started:
 ╔══════════════ Last 7 Days Stats for Editors ═══════════════╗
 ║ Editors                   │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ PhpStorm                  │         16 hrs 59 mins         ║
+║ PhpStorm                  │         18 hrs 5 mins          ║
 ║ CLion                     │             4 hrs              ║
-║ WebStorm                  │          1 hr 24 mins          ║
-║ GitHubDesktop             │            53 mins             ║
-║ VS Code                   │            24 mins             ║
+║ GitHubDesktop             │            44 mins             ║
+║ VS Code                   │            42 mins             ║
+║ WebStorm                  │            20 mins             ║
 ║ iTerm2                    │            18 mins             ║
-║ RustRover                 │             0 secs             ║
 ║ DataGrip                  │             0 secs             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
@@ -119,12 +118,14 @@ Here are some ideas to get you started:
 ╔═════════ Last 7 Days Stats for Operating Systems ══════════╗
 ║ Operating Systems         │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Mac                       │         22 hrs 37 mins         ║
+║ Mac                       │         22 hrs 49 mins         ║
 ║ Windows                   │          1 hr 24 mins          ║
 ╚═══════════════════════════╧════════════════════════════════╝
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
