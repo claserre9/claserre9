@@ -92,10 +92,10 @@ Here are some ideas to get you started:
 ╔═══════ Last 7 Days Stats for Programming Languages ════════╗
 ║ Programming Languages     │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ TypeScript                │          1 hr 2 mins           ║
-║ JavaScript                │            29 mins             ║
+║ PHP                       │         2 hrs 44 mins          ║
+║ JavaScript                │          1 hr 17 mins          ║
+║ TypeScript                │          1 hr 5 mins           ║
 ║ JSON                      │            25 mins             ║
-║ PHP                       │            24 mins             ║
 ║ Other                     │            24 mins             ║
 ║ XML                       │             7 mins             ║
 ║ Markdown                  │             4 mins             ║
@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 ╔══════════════ Last 7 Days Stats for Editors ═══════════════╗
 ║ Editors                   │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ PhpStorm                  │          1 hr 51 mins          ║
+║ PhpStorm                  │          5 hrs 4 mins          ║
 ║ WebStorm                  │            49 mins             ║
 ║ GitHubDesktop             │            23 mins             ║
 ║ VS Code                   │             0 secs             ║
@@ -115,12 +115,14 @@ Here are some ideas to get you started:
 ╔═════════ Last 7 Days Stats for Operating Systems ══════════╗
 ║ Operating Systems         │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
+║ Mac                       │          4 hrs 6 mins          ║
 ║ Windows                   │         2 hrs 11 mins          ║
-║ Mac                       │            53 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
