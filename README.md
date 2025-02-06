@@ -92,25 +92,25 @@ Here are some ideas to get you started:
 ╔═══════ Last 7 Days Stats for Programming Languages ════════╗
 ║ Programming Languages     │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ PHP                       │         20 hrs 51 mins         ║
-║ Twig                      │         3 hrs 49 mins          ║
-║ JSON                      │          1 hr 53 mins          ║
-║ JavaScript                │          1 hr 52 mins          ║
-║ SQL                       │          1 hr 49 mins          ║
-║ Other                     │          1 hr 36 mins          ║
-║ TypeScript                │            49 mins             ║
+║ PHP                       │         18 hrs 8 mins          ║
+║ SQL                       │         2 hrs 32 mins          ║
+║ JSON                      │         2 hrs 24 mins          ║
+║ TypeScript                │          1 hr 50 mins          ║
+║ Other                     │          1 hr 41 mins          ║
+║ JavaScript                │          1 hr 37 mins          ║
+║ Twig                      │          1 hr 25 mins          ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
 ╔══════════════ Last 7 Days Stats for Editors ═══════════════╗
 ║ Editors                   │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ PhpStorm                  │         29 hrs 27 mins         ║
-║ DataGrip                  │          1 hr 49 mins          ║
-║ GitHubDesktop             │          1 hr 14 mins          ║
+║ PhpStorm                  │         25 hrs 40 mins         ║
+║ DataGrip                  │         2 hrs 32 mins          ║
+║ GitHubDesktop             │          1 hr 21 mins          ║
 ║ WebStorm                  │            34 mins             ║
-║ VS Code                   │            27 mins             ║
-║ iTerm2                    │            19 mins             ║
+║ iTerm2                    │            17 mins             ║
+║ VS Code                   │            15 mins             ║
 ║ DBeaverCommunity          │             0 secs             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
@@ -118,12 +118,14 @@ Here are some ideas to get you started:
 ╔═════════ Last 7 Days Stats for Operating Systems ══════════╗
 ║ Operating Systems         │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Mac                       │         33 hrs 4 mins          ║
+║ Mac                       │         29 hrs 54 mins         ║
 ║ Windows                   │            48 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
