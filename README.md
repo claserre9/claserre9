@@ -92,23 +92,23 @@ Here are some ideas to get you started:
 ╔═══════ Last 7 Days Stats for Programming Languages ════════╗
 ║ Programming Languages     │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ PHP                       │         18 hrs 46 mins         ║
-║ TypeScript                │         6 hrs 12 mins          ║
-║ JSON                      │         2 hrs 45 mins          ║
-║ Other                     │         2 hrs 31 mins          ║
+║ PHP                       │         20 hrs 40 mins         ║
+║ TypeScript                │         6 hrs 41 mins          ║
+║ JSON                      │         2 hrs 55 mins          ║
+║ Other                     │         2 hrs 40 mins          ║
 ║ Twig                      │             2 hrs              ║
-║ SQL                       │          1 hr 30 mins          ║
-║ Makefile                  │            54 mins             ║
+║ SQL                       │            56 mins             ║
+║ Makefile                  │            45 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
 ╔══════════════ Last 7 Days Stats for Editors ═══════════════╗
 ║ Editors                   │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ PhpStorm                  │         31 hrs 3 mins          ║
-║ DataGrip                  │          1 hr 30 mins          ║
-║ VS Code                   │          1 hr 12 mins          ║
-║ iTerm2                    │          1 hr 5 mins           ║
+║ PhpStorm                  │         33 hrs 24 mins         ║
+║ VS Code                   │          1 hr 19 mins          ║
+║ iTerm2                    │          1 hr 11 mins          ║
+║ DataGrip                  │            56 mins             ║
 ║ GitHubDesktop             │            55 mins             ║
 ║ WebStorm                  │            11 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
@@ -117,12 +117,14 @@ Here are some ideas to get you started:
 ╔═════════ Last 7 Days Stats for Operating Systems ══════════╗
 ║ Operating Systems         │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Mac                       │         35 hrs 38 mins         ║
+║ Mac                       │         37 hrs 38 mins         ║
 ║ Windows                   │            20 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
