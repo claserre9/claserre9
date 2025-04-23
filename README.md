@@ -92,38 +92,40 @@ Here are some ideas to get you started:
 ╔═══════ Last 7 Days Stats for Programming Languages ════════╗
 ║ Programming Languages     │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ PHP                       │         3 hrs 42 mins          ║
-║ TypeScript                │          3 hrs 4 mins          ║
-║ Twig                      │          1 hr 35 mins          ║
-║ Makefile                  │          1 hr 29 mins          ║
+║ PHP                       │         2 hrs 44 mins          ║
+║ TypeScript                │            49 mins             ║
+║ Other                     │            43 mins             ║
 ║ XML                       │            35 mins             ║
-║ Other                     │            29 mins             ║
-║ Groff                     │            20 mins             ║
+║ Groff                     │            31 mins             ║
+║ JavaScript                │            26 mins             ║
+║ Makefile                  │            17 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
 ╔══════════════ Last 7 Days Stats for Editors ═══════════════╗
 ║ Editors                   │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ PhpStorm                  │         7 hrs 25 mins          ║
-║ WebStorm                  │         2 hrs 37 mins          ║
-║ VS Code                   │            56 mins             ║
+║ PhpStorm                  │         3 hrs 27 mins          ║
+║ VS Code                   │          1 hr 8 mins           ║
+║ WebStorm                  │            47 mins             ║
+║ DBeaverCommunity          │            35 mins             ║
 ║ IntelliJ IDEA             │            25 mins             ║
-║ DBeaverCommunity          │            20 mins             ║
 ║ GitHubDesktop             │            12 mins             ║
-║ DataGrip                  │            12 mins             ║
+║ DataGrip                  │             6 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
 ╔═════════ Last 7 Days Stats for Operating Systems ══════════╗
 ║ Operating Systems         │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Mac                       │         11 hrs 34 mins         ║
-║ Windows                   │            35 mins             ║
+║ Mac                       │         5 hrs 46 mins          ║
+║ Windows                   │            56 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
