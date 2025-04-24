@@ -92,38 +92,41 @@ Here are some ideas to get you started:
 ╔═══════ Last 7 Days Stats for Programming Languages ════════╗
 ║ Programming Languages     │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ PHP                       │         2 hrs 44 mins          ║
-║ TypeScript                │            49 mins             ║
-║ Other                     │            43 mins             ║
+║ Other                     │            52 mins             ║
 ║ XML                       │            35 mins             ║
 ║ Groff                     │            31 mins             ║
-║ JavaScript                │            26 mins             ║
-║ Makefile                  │            17 mins             ║
+║ HTTP Request              │            16 mins             ║
+║ JavaScript                │            15 mins             ║
+║ Java                      │            13 mins             ║
+║ TypeScript                │             9 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
 ╔══════════════ Last 7 Days Stats for Editors ═══════════════╗
 ║ Editors                   │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ PhpStorm                  │         3 hrs 27 mins          ║
-║ VS Code                   │          1 hr 8 mins           ║
-║ WebStorm                  │            47 mins             ║
+║ VS Code                   │          1 hr 2 mins           ║
 ║ DBeaverCommunity          │            35 mins             ║
 ║ IntelliJ IDEA             │            25 mins             ║
-║ GitHubDesktop             │            12 mins             ║
-║ DataGrip                  │             6 mins             ║
+║ WebStorm                  │            25 mins             ║
+║ Postman                   │            16 mins             ║
+║ GitHubDesktop             │             8 mins             ║
+║ iTerm2                    │             6 mins             ║
+║ PhpStorm                  │             4 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
 ╔═════════ Last 7 Days Stats for Operating Systems ══════════╗
 ║ Operating Systems         │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Mac                       │         5 hrs 46 mins          ║
+║ Mac                       │          2 hrs 9 mins          ║
 ║ Windows                   │            56 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
