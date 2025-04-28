@@ -95,10 +95,10 @@ Here are some ideas to get you started:
 ║ Other                     │          1 hr 7 mins           ║
 ║ INI                       │          1 hr 5 mins           ║
 ║ HTTP Request              │            19 mins             ║
-║ XML                       │            19 mins             ║
 ║ JavaScript                │            15 mins             ║
-║ Java                      │            13 mins             ║
+║ XML                       │            11 mins             ║
 ║ Groff                     │            10 mins             ║
+║ PHP                       │             4 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
@@ -106,10 +106,9 @@ Here are some ideas to get you started:
 ║ Editors                   │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
 ║ VS Code                   │          1 hr 59 mins          ║
-║ IntelliJ IDEA             │            25 mins             ║
-║ WebStorm                  │            22 mins             ║
 ║ Postman                   │            19 mins             ║
 ║ GitHubDesktop             │            16 mins             ║
+║ WebStorm                  │            15 mins             ║
 ║ DBeaverCommunity          │            14 mins             ║
 ║ iTerm2                    │             6 mins             ║
 ║ PhpStorm                  │             4 mins             ║
@@ -120,11 +119,13 @@ Here are some ideas to get you started:
 ║ Operating Systems         │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
 ║ Mac                       │         2 hrs 57 mins          ║
-║ Windows                   │            53 mins             ║
+║ Windows                   │            20 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
