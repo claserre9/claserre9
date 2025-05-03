@@ -92,9 +92,9 @@ Here are some ideas to get you started:
 ╔═══════ Last 7 Days Stats for Programming Languages ════════╗
 ║ Programming Languages     │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ TypeScript                │          1 hr 24 mins          ║
-║ Other                     │            58 mins             ║
-║ HTTP Request              │             6 mins             ║
+║ Other                     │         2 hrs 29 mins          ║
+║ TypeScript                │          1 hr 26 mins          ║
+║ HTTP Request              │             2 mins             ║
 ║ JSON                      │             0 secs             ║
 ║ HTML                      │             0 secs             ║
 ║ JavaScript                │             0 secs             ║
@@ -105,21 +105,24 @@ Here are some ideas to get you started:
 ╔══════════════ Last 7 Days Stats for Editors ═══════════════╗
 ║ Editors                   │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ WebStorm                  │          1 hr 24 mins          ║
+║ WebStorm                  │          1 hr 27 mins          ║
+║ VS Code                   │          1 hr 17 mins          ║
 ║ GitHubDesktop             │            50 mins             ║
-║ iTerm2                    │             7 mins             ║
-║ Postman                   │             6 mins             ║
+║ iTerm2                    │            21 mins             ║
+║ Postman                   │             2 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
 ╔═════════ Last 7 Days Stats for Operating Systems ══════════╗
 ║ Operating Systems         │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Mac                       │         2 hrs 28 mins          ║
+║ Mac                       │         3 hrs 59 mins          ║
 ╚═══════════════════════════╧════════════════════════════════╝
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
