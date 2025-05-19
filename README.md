@@ -86,34 +86,6 @@ Here are some ideas to get you started:
 -->
 
 [//]: # (wakatime-stats)
-
-### Wakatime Stats
-```
-╔═══════ Last 7 Days Stats for Programming Languages ════════╗
-║ Programming Languages     │ Total Hours                    ║
-╠═══════════════════════════╪════════════════════════════════╣
-║ Other                     │         4 hrs 43 mins          ║
-║ JavaScript                │             0 secs             ║
-╚═══════════════════════════╧════════════════════════════════╝
-
-
-╔══════════════ Last 7 Days Stats for Editors ═══════════════╗
-║ Editors                   │ Total Hours                    ║
-╠═══════════════════════════╪════════════════════════════════╣
-║ VS Code                   │         2 hrs 53 mins          ║
-║ iTerm2                    │          1 hr 17 mins          ║
-║ GitHubDesktop             │            32 mins             ║
-║ WebStorm                  │             0 secs             ║
-╚═══════════════════════════╧════════════════════════════════╝
-
-
-╔═════════ Last 7 Days Stats for Operating Systems ══════════╗
-║ Operating Systems         │ Total Hours                    ║
-╠═══════════════════════════╪════════════════════════════════╣
-║ Mac                       │         4 hrs 43 mins          ║
-╚═══════════════════════════╧════════════════════════════════╝
-```
-
 [//]: # (end-wakatime-stats)
 
 
