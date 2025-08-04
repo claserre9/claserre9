@@ -1,20 +1,20 @@
 # 👨‍💻 Clifford Laserre
 
-**Full Stack Developer | Backend Engineer**  
+**Full Stack Developer · Backend Specialist**  
 📍 Montréal, QC, Canada  
-📧 [claserre9@gmail.com](mailto:claserre9@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/cliffordlaserre) | 🐙 [GitHub](https://github.com/claserre9)
+📧 [claserre9@gmail.com](mailto:claserre9@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/cliffordlaserre) · 🐙 [GitHub](https://github.com/claserre9)
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** with over **5 years** of experience crafting scalable, maintainable, and high-performance web applications. I specialize in backend development, leveraging technologies like **PHP**, **Symfony**, **Node.js**, and **Django** to build robust APIs and services. I take pride in writing clean, efficient code and optimizing systems for speed and reliability.  
+I’m a pragmatic **Full Stack Developer** with over **5 years of experience** delivering scalable, maintainable, and high-performance applications. I specialize in **backend development**, where I combine clean architecture, solid dev practices, and performance-driven thinking.
 
-Whether it’s tackling complex logic, contributing to open-source, or collaborating with teams to ship features faster, I thrive on turning challenges into solutions.
+Whether working with **PHP/Symfony**, **Node.js**, or **Django**, I focus on building robust systems, optimizing workflows, and delivering real value through thoughtful code. I enjoy tackling complex logic, fine-tuning data pipelines, and contributing to codebases where quality and clarity matter.
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
 **Languages**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -46,42 +46,48 @@ Whether it’s tackling complex logic, contributing to open-source, or collabora
 
 ---
 
-### 💼 Experience
+## 💼 Professional Experience
 
-#### **Backend Developer**  
-**Valnet Inc.** · *May 2021 – Present*  
-- Developed core CMS features using **Slim PHP**, **Doctrine**, and **Knockout.js** for content teams handling millions of readers.  
-- Boosted site speed by implementing advanced **Redis caching** mechanisms.  
-- Tuned database queries and optimized schemas, reducing load on MySQL and Redis clusters.  
-- Led debugging and testing initiatives, enhancing deployment stability and reducing regression.
+### **Valnet Inc.** — *Backend Developer*  
+**May 2021 – Present | Montréal, QC**  
+- Developed and maintained core CMS features using **Slim PHP**, **Doctrine**, and **Knockout.js**.  
+- Designed and implemented Redis-based caching layers, improving content delivery speed.  
+- Optimized MySQL queries and schema design, reducing system load and improving latency.  
+- Led QA and debugging efforts, significantly increasing deployment reliability.
 
-#### **BI Technician**  
-**CIUSSS du Centre-Sud-de-l’Île-de-Montréal** · *Dec 2019 – May 2021*  
-- Automated ETL processes and designed **Power BI dashboards** supporting operational decisions.  
-- Refactored SQL logic to reduce report load times by over **40%**.  
+### **CIUSSS du Centre-Sud-de-l’Île-de-Montréal** — *BI Technician*  
+**Dec 2019 – May 2021 | Montréal, QC**  
+- Automated ETL processes and created data pipelines to support healthcare operations.  
+- Built Power BI dashboards for stakeholders, enabling faster data-driven decisions.  
+- Refactored SQL procedures to reduce report generation times by **40%**.
 
-#### **Freelance Developer**  
-**Appanoo Labs** · *Oct 2018 – Dec 2020*  
-- Built and deployed custom apps for early-stage startups using **Django**, **Node.js**, and REST APIs.  
-- Implemented CI/CD workflows with **Docker** and **Heroku**, cutting down release time by **30%**.
-
----
-
-### 🌱 Open-Source Contributions
-
-#### [Wakatime Stats](https://github.com/claserre9/wakatime-stats)  
-A PHP-based GitHub Action that auto-updates Wakatime statistics in READMEs.  
-Focus: **API integration**, **automation**, **developer productivity**.
-
-#### [Knockout JS Scanner](https://github.com/claserre9/knockout-scanner)  
-A Chrome extension built with **TypeScript** to inspect Knockout.js bindings in real time.  
-Ideal for debugging complex UI layers with Knockout.
+### **Appanoo Labs** — *Freelance Developer*  
+**Oct 2018 – Dec 2020 | Remote**  
+- Built custom web applications and MVPs for early-stage startups using **Django**, **Node.js**, and REST APIs.  
+- Set up **CI/CD** pipelines with Docker and Heroku, reducing deployment times by **30%**.  
+- Delivered maintainable code and documentation under tight deadlines.
 
 ---
 
-### 🤝 Let’s Connect!
+## 🌱 Open Source Projects
 
-I'm always open to meaningful collaborations, freelance opportunities, or just a good conversation about tech, startups, or development best practices.
+### 🔄 [**Wakatime Stats**](https://github.com/claserre9/wakatime-stats)  
+GitHub Action to auto-update Wakatime stats in README files.  
+*Focus: API integration, GitHub automation, dev productivity.*
+
+### 🔍 [**Knockout JS Scanner**](https://github.com/claserre9/knockout-scanner)  
+Chrome extension for real-time inspection of Knockout.js bindings.  
+*Built with TypeScript — Ideal for debugging complex UIs.*
+
+### ⚡ [**knockout-page-vite**](https://github.com/claserre9/knockout-page-vite)  
+Minimal boilerplate to build Knockout.js components using **Vite** and **TypeScript**.  
+*Goal: bring modern tooling (HMR, bundling, TSX support) to legacy MVVM stacks.*
+
+---
+
+## 🤝 Let’s Connect
+
+I’m open to freelance work, open-source collaborations, or just talking dev culture, system architecture, or performance optimization.
 
 [![Email](https://img.shields.io/badge/Email-claserre9%40gmail.com-blue?style=flat&logo=gmail)](mailto:claserre9@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Clifford%20Laserre-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/cliffordlaserre)
